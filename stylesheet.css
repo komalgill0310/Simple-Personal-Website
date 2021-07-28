@@ -1,0 +1,58 @@
+/*change the background color*/
+body{
+  background-color: lightgrey;  
+}
+
+/*place the image in center*/
+   img {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 35px;
+    /*display: block;*/    
+    }
+   
+/*text alignment should be center where attribute is 'container'*/    
+.container{
+    text-align: center;
+  }
+
+  .container1{
+    text-align: center;
+    margin-top: 80px;
+  }
+
+  /*remove the dot from list elements*/
+  nav ul{
+    margin: 0;
+    padding: 0;
+    list-style: none; 
+    overflow: hidden;
+    background-color: black;
+  }
+
+/*display li elements next to each other*/
+  nav li{
+  display: inline;    
+  } 
+
+  /*text decoration in header*/
+  nav a{    
+    color: White;
+    text-decoration: none;
+    font-size: 17px;
+    padding: 13px;
+    float: left;
+  }
+ 
+ /*Change color by hovering a mouse*/ 
+  nav a:hover{
+    color: black;
+    background-color: White;
+  }
+
+  nav a.active{
+    background-color: green;
+    color: black;
+  }
+
+ 
