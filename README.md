@@ -1,7 +1,7 @@
 # Simple Personal Website
 Website is build using HTML and CSS.
 
-## To Open a website Click [Here](https://github.com/komalgill0310/Simple-Personal-Website.git)
+## To Open a website Click [Here](https://komalgill0310.github.io/Simple-Personal-Website/)
 
 ## How does the website look 
 Here is the [Screenshot](Screenshot of the website.PNG)
@@ -11,5 +11,5 @@ By Creating this Simple basic website I did learn the basic concepts of HTML, CS
 
 ### Author
 
-*Komal*-Software Developer [Personal Website](https://github.com/komalgill0310/Simple-Personal-Website.git)  [LinkedIn](www.linkedin.com/in/komalpreet-kaur-3b6924177)
+*Komal*-Software Developer [Personal Website](https://github.com/komalgill0310/Simple-Personal-Website.git)            [LinkedIn](www.linkedin.com/in/komalpreet-kaur-3b6924177)
 
