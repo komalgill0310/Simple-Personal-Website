@@ -11,5 +11,5 @@ By Creating this Simple basic website I did learn the basic concepts of HTML, CS
 
 ### Author
 
-*Komal*- | Software Developer | [Personal Website](https://komalgill0310.github.io/Simple-Personal-Website/) |        [LinkedIn](www.linkedin.com/in/komalpreet-kaur-3b6924177)
+Komal | Software Developer | [Portfolio](https://kaurkomal.com/) | [LinkedIn](https://www.linkedin.com/in/hssa03/)
 
